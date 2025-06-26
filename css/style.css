@@ -1,0 +1,32 @@
+.center{
+    text-align: center;
+}
+
+img{
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin: 5px;
+    width: 20%;
+}
+
+.fixing{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.icon{
+    width: 16px;
+    height: 16px;
+}
+
+.border{
+    border: 5px solid rgb(207, 116, 4);
+    width: 50%;
+
+}
+
+.headline3{
+    padding: 20px;
+}
